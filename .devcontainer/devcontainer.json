@@ -1,6 +1,6 @@
 {
     "name": "COMP423 Course Notes",
-    "image": "mcr.microsoft.com/vscode/devcontainers/go",
+    "image": "mcr.microsoft.com/devcontainers/python:latest",
     "customizations": {
     "vscode": {
     "settings": {},
