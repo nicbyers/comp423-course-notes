@@ -1,6 +1,7 @@
 # Setting up a dev container for Go
 
 * Primary author: [Nicholas Byers](https://github.com/nicbyers)
+* Reviewer: [Brian Bordeaux](https://github.com/bbounc)
 
 ## Prerequisites
 Before you begin, make sure you have the following tools installed on your machine:
@@ -13,6 +14,5 @@ Before you begin, make sure you have the following tools installed on your machi
 ### 1. **Create a new directory**
 Start by creating a new directory for your Go project and navigating to it in your terminal:
 
-```bash
-mkdir go-dev-container
-cd go-dev-container
+**mkdir go-dev-container**
+**cd go-dev-container**
